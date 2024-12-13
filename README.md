@@ -1,4 +1,5 @@
-![Programming Language](https://github.com/user-attachments/assets/ec425311-fc76-4c8b-889a-0250931ece99)# Workshop on R Programming Language
+# Workshop on R Programming Language
+![Programming Language](https://github.com/user-attachments/assets/ec425311-fc76-4c8b-889a-0250931ece99)
 
 Unlock Your Data Skills! 🚀
 Join the R Programming Language Online Workshop hosted by Tri-Chandra Research Group and transform your research capabilities!
@@ -43,3 +44,13 @@ This comprehensive workshop will cover the following topics:
 - Popular Library (ggplot): Master data visualization with the ggplot package.
 
 This workshop is perfect for beginners and those looking to enhance their data analysis and visualization skills. Join us and empower your research with R!
+
+## YouTube Videos
+**🚀 Excited to share new video: How to Install R & RStudio on Windows 11 | Nepali | Ep-1!** 
+
+video link: https://www.youtube.com/watch?v=kge9v_oUB6o
+
+🎥 Dive into the world of data science with a simple step-by-step guide in Nepali. Check it out now and kickstart your journey! 🌟 
+[![R EP-1](https://github.com/user-attachments/assets/f82d991a-4296-4ba2-9463-6af5bc140546)](https://www.youtube.com/watch?v=kge9v_oUB6o)
+
+
