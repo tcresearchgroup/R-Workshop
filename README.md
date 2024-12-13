@@ -1,4 +1,5 @@
-# Workshop on R Programming Language
+![Programming Language](https://github.com/user-attachments/assets/ec425311-fc76-4c8b-889a-0250931ece99)# Workshop on R Programming Language
+
 Unlock Your Data Skills! 🚀
 Join the R Programming Language Online Workshop hosted by Tri-Chandra Research Group and transform your research capabilities!
 
@@ -12,11 +13,13 @@ Join the R Programming Language Online Workshop hosted by Tri-Chandra Research G
 
 ✨ Learn to harness the power of R for impactful research and analytics!
 
+👉 Register Now: https://forms.gle/TEcNtX5dVQNjHFQL7
+
 👉 Website: www.tcresearchgroup.club
 
 📞 Contact: +977-9746445284, 9742400662
 
-📍 Facebook: Tri-Chandra Research Group
+📍 Facebook: ![Tri-Chandra Research Group](https://www.facebook.com/TriChandraResearchGroup)
 
 Tag your friends and don't miss this amazing opportunity! 💡📊
 
