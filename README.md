@@ -19,7 +19,7 @@ Join the R Programming Language Online Workshop hosted by Tri-Chandra Research G
 
 📞 Contact: +977-9746445284, 9742400662
 
-📍 Facebook: ![Tri-Chandra Research Group](https://www.facebook.com/TriChandraResearchGroup)
+📍 Facebook: [Tri-Chandra Research Group](https://www.facebook.com/TriChandraResearchGroup)
 
 Tag your friends and don't miss this amazing opportunity! 💡📊
 
