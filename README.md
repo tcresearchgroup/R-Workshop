@@ -10,8 +10,6 @@ Join the R Programming Language Online Workshop hosted by Tri-Chandra Research G
 
 💻 Platforms: Google Classroom, R Studio, MS-Teams, Jupyter Notebook, Colab
 
-💰 Fee: Rs. 200/- NPR (via E-Sewa at 9746445284(Janak Singh Dhami))
-
 ✨ Learn to harness the power of R for impactful research and analytics!
 
 👉 Register Now: https://forms.gle/TEcNtX5dVQNjHFQL7
